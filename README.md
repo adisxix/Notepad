@@ -4,23 +4,23 @@ Notepad - Online Notepad is a minimal yet powerful online notepad built with a w
 
 # Features
 
-- Multiple Notes — Create, switch between, and delete as many notes as you need from the sidebar
-- Light & Dark Mode — Toggle between a warm light theme and a deep dark theme, both easy on the eyes
-- Font Customization — Choose between Monospace, Serif, and Sans-Serif fonts to match your writing style
-- Font Size Control — Pick from a range of sizes (8px to 36px) for comfortable reading and writing
-- Live Word Count — Tracks your word count in real time as you type
-- Export as PDF — Save your note as a clean PDF document
-- Export as Word Document — Download your note as a .docx file ready to share or edit
-- Export as Text — Plain .txt export for maximum compatibility
-- Share Note — Generate a shareable read-only link for any note
-- Auto Resize Textarea — The writing area grows with your content, no manual scrolling needed
-- Delete with Confirmation — A confirm modal prevents accidental note deletion
+- Multiple Notes
+- Light & Dark Mode 
+- Font Customization
+- Font Size Control 
+- Live Word Count
+- Export as PDF 
+- Export as Word Document
+- Export as Text
+- Share Note 
+- Auto Resize Textarea
+- Delete with Confirmation 
 
 # Tech Stack
 
 - HTML5
-- Tailwind CSS (via Browser CDN / UIverse)
-- JavaScript (Vanilla)
-- Flaticon UIcons — for toolbar icons
-- html2pdf.js — for PDF export
-- docx.js — for Word document export
+- Tailwind CSS 
+- JavaScript 
+- Flaticon UIcons 
+- html2pdf.js 
+- docx.js 
